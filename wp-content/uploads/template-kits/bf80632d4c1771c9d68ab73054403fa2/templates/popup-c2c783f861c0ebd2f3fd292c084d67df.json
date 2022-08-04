@@ -1,0 +1,455 @@
+{
+    "version": "0.4",
+    "title": "Popup",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": true,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "61f4f7bf",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 640
+                },
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                },
+                "layout": "full_width",
+                "margin": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "49a5d3e1",
+                    "settings": {
+                        "_column_size": 100,
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/wp.envatoextensions.com\/kit-122\/wp-content\/uploads\/sites\/125\/2018\/11\/joel-filipe-187166-unsplash.jpg",
+                            "id": 680
+                        },
+                        "background_overlay_background": "classic",
+                        "background_overlay_color": "#ffffff",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.93999999999999995
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": -5,
+                            "vertical": -6,
+                            "blur": 12,
+                            "spread": 0,
+                            "color": "rgba(0,0,0,0.05)"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "51735805",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "598791dc",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "_inline_size_tablet": 50,
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "0",
+                                            "bottom": "1",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "10a75842",
+                                            "settings": {
+                                                "title": "Request a free quote today.",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Josefin Sans",
+                                                "typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 2.8999999999999999
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 300,
+                                                "title_color": "#000000",
+                                                "typography_font_size_tablet": {
+                                                    "unit": "em",
+                                                    "size": 3
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -4
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "11c734bb",
+                                            "settings": {
+                                                "text": "No Thanks",
+                                                "align": "left",
+                                                "size": "xs",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 0.69999999999999996
+                                                },
+                                                "typography_text_decoration": "underline",
+                                                "button_text_color": "#000000",
+                                                "background_color": "rgba(0,0,0,0)",
+                                                "hover_color": "#9e9e9e",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                },
+                                                "__dynamic__": {
+                                                    "link": "[elementor-tag id=\"148cea4\" name=\"popup\" settings=\"%7B%22action%22%3A%22close%22%7D\"]"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2c326812",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "background_background": "classic",
+                                        "background_color": "#c48e4c",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "-80",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "animation_delay": 300,
+                                        "padding_tablet": {
+                                            "unit": "em",
+                                            "top": "2",
+                                            "right": "2",
+                                            "bottom": "2",
+                                            "left": "2",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 50,
+                                        "padding_mobile": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "43f64e4f",
+                                            "settings": {
+                                                "form_name": "New Form",
+                                                "form_fields": [
+                                                    {
+                                                        "_id": "name",
+                                                        "field_type": "text",
+                                                        "field_label": "Name",
+                                                        "placeholder": "Name",
+                                                        "width": "50",
+                                                        "field_value": "",
+                                                        "required": "true",
+                                                        "min_date": "",
+                                                        "max_date": "",
+                                                        "field_options": "",
+                                                        "allow_multiple": "",
+                                                        "select_size": "",
+                                                        "inline_list": "",
+                                                        "field_html": "",
+                                                        "width_tablet": "",
+                                                        "width_mobile": "",
+                                                        "rows": 4,
+                                                        "recaptcha_size": "normal",
+                                                        "recaptcha_style": "light",
+                                                        "css_classes": "",
+                                                        "custom_id": "name"
+                                                    },
+                                                    {
+                                                        "_id": "email",
+                                                        "field_type": "email",
+                                                        "required": "true",
+                                                        "field_label": "Email",
+                                                        "placeholder": "Email",
+                                                        "width": "50",
+                                                        "field_value": "",
+                                                        "min_date": "",
+                                                        "max_date": "",
+                                                        "field_options": "",
+                                                        "allow_multiple": "",
+                                                        "select_size": "",
+                                                        "inline_list": "",
+                                                        "field_html": "",
+                                                        "width_tablet": "",
+                                                        "width_mobile": "",
+                                                        "rows": 4,
+                                                        "recaptcha_size": "normal",
+                                                        "recaptcha_style": "light",
+                                                        "css_classes": "",
+                                                        "custom_id": "email"
+                                                    },
+                                                    {
+                                                        "_id": "867c309",
+                                                        "field_type": "text",
+                                                        "required": "true",
+                                                        "field_label": "Area Size",
+                                                        "placeholder": "Area Size",
+                                                        "width": "50",
+                                                        "field_value": "",
+                                                        "min_date": "",
+                                                        "max_date": "",
+                                                        "field_options": "",
+                                                        "allow_multiple": "",
+                                                        "select_size": "",
+                                                        "inline_list": "",
+                                                        "field_html": "",
+                                                        "width_tablet": "",
+                                                        "width_mobile": "",
+                                                        "rows": 4,
+                                                        "recaptcha_size": "normal",
+                                                        "recaptcha_style": "light",
+                                                        "css_classes": "",
+                                                        "custom_id": "867c309"
+                                                    },
+                                                    {
+                                                        "_id": "4807c9f",
+                                                        "field_type": "text",
+                                                        "required": "true",
+                                                        "field_label": "Budget",
+                                                        "placeholder": "Budget",
+                                                        "width": "50",
+                                                        "field_value": "",
+                                                        "min_date": "",
+                                                        "max_date": "",
+                                                        "field_options": "",
+                                                        "allow_multiple": "",
+                                                        "select_size": "",
+                                                        "inline_list": "",
+                                                        "field_html": "",
+                                                        "width_tablet": "",
+                                                        "width_mobile": "",
+                                                        "rows": 4,
+                                                        "recaptcha_size": "normal",
+                                                        "recaptcha_style": "light",
+                                                        "css_classes": "",
+                                                        "custom_id": "4807c9f"
+                                                    },
+                                                    {
+                                                        "_id": "message",
+                                                        "field_type": "textarea",
+                                                        "field_label": "Message",
+                                                        "placeholder": "Tell us about your project...",
+                                                        "width": "100",
+                                                        "field_value": "",
+                                                        "required": "",
+                                                        "min_date": "",
+                                                        "max_date": "",
+                                                        "field_options": "",
+                                                        "allow_multiple": "",
+                                                        "select_size": "",
+                                                        "inline_list": "",
+                                                        "field_html": "",
+                                                        "width_tablet": "",
+                                                        "width_mobile": "",
+                                                        "rows": 4,
+                                                        "recaptcha_size": "normal",
+                                                        "recaptcha_style": "light",
+                                                        "css_classes": "",
+                                                        "custom_id": "message"
+                                                    }
+                                                ],
+                                                "show_labels": "",
+                                                "button_text": "Request Quote",
+                                                "button_width": "",
+                                                "email_content": "[all-fields]",
+                                                "email_content_2": "[all-fields]",
+                                                "success_message": "The form was sent successfully.",
+                                                "error_message": "An error occured.",
+                                                "required_field_message": "This field is required.",
+                                                "invalid_message": "There's something wrong. The form is invalid.",
+                                                "field_text_color": "#ffffff",
+                                                "field_typography_typography": "custom",
+                                                "field_typography_font_family": "Raleway",
+                                                "field_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "field_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.5
+                                                },
+                                                "field_border_color": "#ffffff",
+                                                "field_border_width": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": true
+                                                },
+                                                "field_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "button_background_color": "#ffffff",
+                                                "button_typography_typography": "custom",
+                                                "button_typography_font_family": "Raleway",
+                                                "button_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 13
+                                                },
+                                                "button_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "input_size": "md",
+                                                "field_background_color": "rgba(255,255,255,0)",
+                                                "button_text_color": "#000000",
+                                                "button_typography_font_weight": "bold",
+                                                "button_typography_text_transform": "uppercase",
+                                                "button_hover_color": "#ffffff",
+                                                "button_background_hover_color": "#000000"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "form",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "horizontal_position": "right",
+        "vertical_position": "bottom",
+        "overlay": "",
+        "close_button": "",
+        "entrance_animation": "slideInRight",
+        "entrance_animation_duration": {
+            "unit": "px",
+            "size": 0.40000000000000002
+        },
+        "background_background": "classic",
+        "background_color": "rgba(0,0,0,0)",
+        "box_shadow_box_shadow_type": ""
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Home Renovations",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1 Pro",
+            "screenshot": "screenshots\/home-1-pro.jpg",
+            "source": "templates\/home-1-pro-b272aa41b9beb13486b754fbdf21e41e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 1 Pro",
+            "screenshot": "screenshots\/about-1-pro.jpg",
+            "source": "templates\/about-1-pro-a4daa8a5c606a6f10bf5e7b5023a6dad.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-a9a7c40d55d696afb99e201f2db5f5c0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 3",
+            "screenshot": "screenshots\/about-3.jpg",
+            "source": "templates\/about-3-db25b2555a9f8511f6e93af134db21bd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service 1 Pro",
+            "screenshot": "screenshots\/service-1-pro.jpg",
+            "source": "templates\/service-1-pro-ac619b0065fbdaa88440fa1e725947cc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service 2",
+            "screenshot": "screenshots\/service-2.jpg",
+            "source": "templates\/service-2-8c26ea177b8e9315bee36e0bead7ea52.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service 3",
+            "screenshot": "screenshots\/service-3.jpg",
+            "source": "templates\/service-3-2084e1de34c39404f54efe552ecdccf1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Work 1 Pro",
+            "screenshot": "screenshots\/work-1-pro.jpg",
+            "source": "templates\/work-1-pro-3b111a31af412e5adce52225a750edfa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Work 2",
+            "screenshot": "screenshots\/work-2.jpg",
+            "source": "templates\/work-2-42e8866d8451fe3748b74ec935db182c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Work 3",
+            "screenshot": "screenshots\/work-3.jpg",
+            "source": "templates\/work-3-d04bf51a4c98edbaf7506e35629537f4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Work Detail",
+            "screenshot": "screenshots\/work-detail.jpg",
+            "source": "templates\/work-detail-e046555fde4d6f332971f53ccf8635a7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-b0f53e97e1eedcd569632684fc889586.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1 Pro",
+            "screenshot": "screenshots\/contact-1-pro.jpg",
+            "source": "templates\/contact-1-pro-a02c3957b2a06cc80f2b118eae891eaf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-113fa843cb00b01779086380ea572439.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-c2c783f861c0ebd2f3fd292c084d67df.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

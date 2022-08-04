@@ -1,0 +1,18 @@
+/* Removes top margin from titles in icon box */
+.envato-kit-164-top-0 .elementor-icon-box-title,
+.envato-kit-164-top-0 p {
+	margin-top: 0;
+}
+
+/* Limit slider content's inner width. This option is not available in Elementor UI */
+.envato-kit-164-slide-width .slick-slide-inner {
+	max-width: 1020px;
+	margin: auto;
+}
+
+/* vertically center images in carousel */
+.envato-kit-164-valign-carousel figure{
+  height: 150px;
+	margin: auto;
+	display: flex;
+}

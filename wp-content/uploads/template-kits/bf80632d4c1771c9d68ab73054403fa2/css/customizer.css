@@ -1,0 +1,29 @@
+/* Larger Image Carousel */
+.envato-kit-122-large-carousel .elementor-image-carousel{
+	 padding-bottom: 50px;
+	 overflow: hidden;
+}
+.envato-kit-122-large-carousel .elementor-slick-slider ul.slick-dots{
+	 bottom: 5px;
+}
+.envato-kit-122-large-carousel .slick-list{
+	  margin-left: -30% !important;
+    margin-right: -30%;
+}
+
+/* About 2 */
+.envato-kit-122-fixed{
+	height:100%;
+	position: fixed;
+}
+.envato-kit-122-fixed:nth-child(2){
+	left:12.97%;
+}
+.envato-kit-122-scrollable{
+	left: calc(12.97% + 28.515%);
+}
+
+/* Circle Avatar */
+.envato-kit-122-member img{
+	border-radius: 50%;
+}
