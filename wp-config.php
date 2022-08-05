@@ -26,7 +26,7 @@ define( 'DB_NAME', 'cnmh' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '1996@walid' );
+define( 'DB_PASSWORD', '123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
